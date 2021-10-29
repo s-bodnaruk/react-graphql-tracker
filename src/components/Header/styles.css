@@ -1,0 +1,26 @@
+.headerContainer {
+  background-color: rgb(67, 67, 226);
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  display: flex;
+  flex-flow: row nowrap;
+  height: 100px;
+  justify-content: space-around;
+}
+
+h1 {
+  color: white;
+}
+
+.showMoreButton  {
+  background-color: blue;
+  color: white;
+  width: 75px;
+  border-radius: 25px;
+}
+
+.buttonContainer {
+  margin-bottom: 10px;
+}
